@@ -14,7 +14,7 @@ namespace ConsoleApplication1
             // variable for stopping the while loop
             int stopValue = 1;
             Enemy myEnemy = new Enemy();
-            Enemy.myEnemy2 = new Enemy(23, "Joe Enemy", true);
+            Enemy myEnemy2 = new Enemy(23, "Joe Enemy", true);
             // players health variable
             int playerHealth = 100;
             // construct the while loop

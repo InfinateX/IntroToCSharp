@@ -22,7 +22,7 @@ namespace EnemyNameSpace
             name = "Kwame";
             isRunning = true;
         }
-        Enemy(int eHealth, string eName, bool running)
+        public Enemy(int eHealth, string eName, bool running)
         {
             health = eHealth;
             name = eName;
